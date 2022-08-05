@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/styles.scss sass/css/styles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haokiet2501/natours-page.git"
+  },
+  "author": "KDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haokiet2501/natours-page/issues"
+  },
+  "homepage": "https://github.com/haokiet2501/natours-page#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
